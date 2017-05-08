@@ -18,7 +18,7 @@ Show.create({
 Show.create({
   title: "Don't Tell the Groom",
   series: 1,
-  description: "We've given the Bride 24 hours and $260,000 in unmarked bills to assassinate her man.",
+  description: "We've given the Bride 24 hours and $260,000US in unmarked bills to assassinate her man. We think the joke will be on him.",
   image: "groom.jpeg",
   programmeID: "98989898"
 })
