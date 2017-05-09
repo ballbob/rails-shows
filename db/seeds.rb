@@ -24,6 +24,6 @@ u2 = User.create({
   })
 
 FavouriteShow.create({
-  user_id: u1.id,
-  show_id: s2.id
+  user: u1,
+  show: s2
   })
