@@ -17,10 +17,14 @@ s2 = Show.create({
 })
 
 u1 = User.create({
-  name: "Johndrew"
+  email: "johndrew@freeserve.co.uk",
+  password: "guestguest",
+  password_confirmation: "guestguest"
   })
 u2 = User.create({
-  name: "Quatherine"
+  email: "quatherine@gmail.com",
+  password: 'guestguest',
+  password_confirmation: "guestguest"
   })
 
 FavouriteShow.create({
